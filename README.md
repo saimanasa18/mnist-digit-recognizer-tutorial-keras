@@ -1,4 +1,4 @@
-# MNIST-digit-recognizer-tutorial-keras
+## MNIST-digit-recognizer-tutorial-keras
 
 ## Workflow Explanation
 
